@@ -33,6 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -374,11 +375,12 @@ Contact Page
     </div>
 </body>
 </html>
-
+```
 ## OUTPUT:
-![alt text](ig1-1.png)
-![alt text](ig2-1.png)
-![alt text](ig3-1.png)
-![alt text](ig4-1.png)
+![alt text](../Figma/ig1.png)
+![alt text](../Figma/ig2.png)
+![alt text](../Figma/ig3.png)
+![alt text](../Figma/ig4.png)
+
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
